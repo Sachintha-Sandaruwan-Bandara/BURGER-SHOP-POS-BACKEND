@@ -1,5 +1,7 @@
 # Burger Shop POS Backend
 
+# Burger Shop POS Frontend link - https://github.com/Sachintha-Sandaruwan-Bandara/BURGER-SHOP-POS-FRONTEND
+
 This project is a backend application for the Burger Shop Point of Sale (POS) system, built using Java EE. It provides RESTful APIs to manage customers, orders, menu items, and more.
 
 ## Table of Contents
