@@ -50,10 +50,8 @@ Once the backend is running, you can access the API endpoints to manage the burg
 API Documentation
 The API documentation is available through Postman. You can access the collection and view the detailed API documentation here:
 
-API Documentation Links
+API Documentation Link - https://shorturl.at/CvbBn
 
-CUSTOMER -
-https://documenter.postman.com/preview/34708061-938b1889-19b6-484d-a1ca-eaecfc357ecd?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&documentationTheme=light&logo=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&logoDark=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&right-sidebar=303030&top-bar=FFFFFF&highlight=FF6C37&right-sidebar-dark=303030&top-bar-dark=212121&highlight-dark=FF6C37
 
 Features
 Customer Management: Add, update, delete, and view customer information.
