@@ -1,36 +1,34 @@
+# Burger Shop POS Backend
 
-
-Burger Shop POS Backend
 This project is a backend application for the Burger Shop Point of Sale (POS) system, built using Java EE. It provides RESTful APIs to manage customers, orders, menu items, and more.
 
-Table of Contents
-Installation
-Usage
-API Documentation
-Features
-Technologies
-Contributing
-License
-Contact
-Installation
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
 To set up the Burger Shop POS backend, follow these steps:
 
-Clone the Repository:
+1. **Clone the Repository:**
 
-bash
-Copy code
-git clone https://github.com/yourusername/burger-shop-pos-backend.git
+   ```bash
+   git clone https://github.com/yourusername/burger-shop-pos-backend.git
 Navigate to the Project Directory:
 
-bash
-Copy code
+
 cd burger-shop-pos-backend
 Build the Project:
 
 Use Maven to build the project:
 
-bash
-Copy code
+
 mvn clean install
 Deploy to Application Server:
 
@@ -50,8 +48,9 @@ Once the backend is running, you can access the API endpoints to manage the burg
 API Documentation
 The API documentation is available through Postman. You can access the collection and view the detailed API documentation here:
 
-Postman Documentation Links
-CUSTOMER https://documenter.postman.com/preview/34708061-938b1889-19b6-484d-a1ca-eaecfc357ecd?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&documentationTheme=light&logo=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&logoDark=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&right-sidebar=303030&top-bar=FFFFFF&highlight=FF6C37&right-sidebar-dark=303030&top-bar-dark=212121&highlight-dark=FF6C37
+Postman Documentation Link 
+
+https://documenter.postman.com/preview/34708061-938b1889-19b6-484d-a1ca-eaecfc357ecd?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&documentationTheme=light&logo=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&logoDark=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&right-sidebar=303030&top-bar=FFFFFF&highlight=FF6C37&right-sidebar-dark=303030&top-bar-dark=212121&highlight-dark=FF6C37
 
 Features
 Customer Management: Add, update, delete, and view customer information.
@@ -69,9 +68,18 @@ Contributing
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
+Create a new branch:
+
+git checkout -b feature-branch
+Commit your changes:
+bash
+Copy code
+git commit -m 'Add new feature'
+Push to the branch:
+bash
+Copy code
+git push origin feature-branch
 Open a Pull Request.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
