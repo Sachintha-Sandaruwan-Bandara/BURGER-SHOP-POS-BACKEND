@@ -21,7 +21,7 @@ To set up the Burger Shop POS backend, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/burger-shop-pos-backend.git
+   https://github.com/Sachintha-Sandaruwan-Bandara/BURGER-SHOP-POS-BACKEND
 Navigate to the Project Directory:
 
 
@@ -50,8 +50,9 @@ Once the backend is running, you can access the API endpoints to manage the burg
 API Documentation
 The API documentation is available through Postman. You can access the collection and view the detailed API documentation here:
 
-Postman Documentation Link 
+API Documentation Links
 
+CUSTOMER -
 https://documenter.postman.com/preview/34708061-938b1889-19b6-484d-a1ca-eaecfc357ecd?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&documentationTheme=light&logo=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&logoDark=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&right-sidebar=303030&top-bar=FFFFFF&highlight=FF6C37&right-sidebar-dark=303030&top-bar-dark=212121&highlight-dark=FF6C37
 
 Features
